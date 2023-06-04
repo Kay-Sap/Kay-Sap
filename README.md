@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kay-Sap
+- 👋 Hi, I’m KoKoK
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Opencv-Python
 - 💞️ I’m looking to collaborate on ...
